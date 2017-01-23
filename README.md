@@ -25,7 +25,7 @@ Summarized steps:
 
 ## Other notes
 This script requires dplyr and reshape2 packages.
-It also requires the UCI HAR Dataset to be stored in working directory. 
+It also requires the **UCI HAR Dataset to be stored in working directory**. 
 More detailed descriptions of the script is found in the `run_analysis.R` script itself. 
 
 
